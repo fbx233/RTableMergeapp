@@ -59,7 +59,7 @@ RTableMergeApp is designed to be easily deployable on a server, enabling users w
 
 **Accessing RTableMergeApp within the LAN**
 
-After deploying RTableMergeApp on your server, users on the same local network can access it by navigating to the server's IP address in their web browser, followed by the specific port number if required (e.g., `http://server_ip:port`). Ensure your server's firewall and network settings allow HTTP traffic on the used port to enable seamless access.
+After deploying RTableMergeApp on your server, users on the same local network can access it by navigating to the server's IP address in their web browser, followed by the specific port number if required (e.g., `http://0.0.0.0:3838`). Ensure your server's firewall and network settings allow HTTP traffic on the used port to enable seamless access.
 
 **Conclusion**
 
