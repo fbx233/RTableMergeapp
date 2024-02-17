@@ -1,10 +1,15 @@
 # RTableMergeapp
 ## Introduction
 RTableMergeApp is a powerful and user-friendly application developed in R, leveraging the capabilities of the Shiny framework to provide an intuitive graphical interface for merging datasets. Designed to simplify the process of identifying and combining the intersection of two tables, this tool caters to data analysts, researchers, and anyone in need of streamlining their data preparation tasks. With RTableMergeApp, users can effortlessly upload their datasets, specify the criteria for the intersection, and perform the merge operation with just a few clicks. The application not only enhances productivity by automating complex data manipulation tasks but also ensures accuracy and consistency in the results. Whether you're working on data analysis, research projects, or any task that requires precise dataset merging, RTableMergeApp is your go-to solution for efficient and reliable data integration.
+
 ## How to use it?
 **Deploying RTableMergeApp on a Server for Local Network Access**
 
-RTableMergeApp is designed to be easily deployable on a server, enabling users within the same local area network (LAN) to access and use the application through a web interface. Follow these steps to set up RTableMergeApp on your server and make it accessible to LAN users.
+RTableMergeApp is designed to be easily deployable on a server, enabling users within the same local area network (LAN) to access and use the application through a web interface. This powerful tool supports a wide range of data formats, including: 
+- **Excel** 
+- **CSV**
+-**TXT files**
+making it versatile for various data manipulation tasks. Follow these steps to set up RTableMergeApp on your server and make it accessible to LAN users.
 
 **Server Deployment**
 
