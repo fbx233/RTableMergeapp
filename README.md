@@ -13,6 +13,15 @@ RTableMergeApp supports a variety of file formats for data manipulation, includi
 This flexibility allows users to effortlessly merge and manipulate data from different sources, enhancing productivity and collaboration within teams.
 
 ## How to use it?
+**R Environment**
+- r-base
+- r packages:
+```
+library(shiny)
+library(readxl) 
+library(writexl) 
+library(readr) 
+```
 **Deploying RTableMergeApp on a Server for Local Network Access**
 
 RTableMergeApp is designed to be easily deployable on a server, enabling users within the same local area network (LAN) to access and use the application through a web interface. This powerful tool supports a wide range of data formats, including: Excel、CSV and TXT files, making it versatile for various data manipulation tasks. Follow these steps to set up RTableMergeApp on your server and make it accessible to LAN users.
