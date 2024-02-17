@@ -8,7 +8,7 @@ RTableMergeApp is a powerful and user-friendly application developed in R, lever
 RTableMergeApp is designed to be easily deployable on a server, enabling users within the same local area network (LAN) to access and use the application through a web interface. This powerful tool supports a wide range of data formats, including: 
 - **Excel** 
 - **CSV**
--**TXT files**
+- **TXT files**
 making it versatile for various data manipulation tasks. Follow these steps to set up RTableMergeApp on your server and make it accessible to LAN users.
 
 **Server Deployment**
