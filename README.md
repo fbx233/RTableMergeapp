@@ -9,6 +9,7 @@ RTableMergeApp is designed to be easily deployable on a server, enabling users w
 - **Excel** 
 - **CSV**
 - **TXT files**
+
 making it versatile for various data manipulation tasks. Follow these steps to set up RTableMergeApp on your server and make it accessible to LAN users.
 
 **Server Deployment**
