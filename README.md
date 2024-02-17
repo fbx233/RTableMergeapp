@@ -22,7 +22,7 @@ RTableMergeApp is designed to be easily deployable on a server, enabling users w
    Change to the directory containing the RTableMergeApp:
 
    ```sh
-   cd ~/merge_table
+   cd ~/RTableMergeapp
    ```
 
    Ensure the path matches where you cloned the RTableMergeApp repository.
