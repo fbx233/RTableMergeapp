@@ -13,10 +13,9 @@ RTableMergeApp is designed to be easily deployable on a server, enabling users w
    First, ensure Git is installed on your server. Then, clone the RTableMergeApp repository to your server using the following command:
 
    ```bash
-   git clone [Repository URL]
+   git clone https://github.com/fbx233/RTableMergeapp.git
    ```
 
-   Replace `[Repository URL]` with the actual URL of the RTableMergeApp repository.
 
 2. **Navigate to the Application Directory**
 
